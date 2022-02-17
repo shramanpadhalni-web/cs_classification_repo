@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'cs_classification_repo', u'cs_classification_example Documentation',
      u"Hem Chandra Padhalni", 'cs_classification_example',
-     'This is CoreStack Classification Model, exposing the API's for flower classification', 'Miscellaneous'),
+     'This is CoreStack Classification Model, exposing the API for flower classification', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
