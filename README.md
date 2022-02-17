@@ -3,7 +3,7 @@ cs_classification_example
 
 [![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/cs_classification_repo/master)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/cs_classification_repo/job/master)
 
-This is CoreStack Classification Model, exposing the API's for flower classification
+This is CoreStack Classification Model, exposing the API for flower classification
 
 Project Organization
 ------------
